@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -134,5 +135,21 @@ img{
   height: 200px;
   margin-top: 30px;
   margin-left:20px;
-  
+  
+}
+.div1{
+
+margin-right:29vh;
+position:absolute;
+left:9px;
+}
+.h1{
+margin-left:15px;
+
+}
+.h2{
+
+position:absolute;
+left:32vh;
+top:45vh;
 }
